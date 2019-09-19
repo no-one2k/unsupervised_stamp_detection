@@ -17,7 +17,10 @@ Detect stamps and signs on image, plot and save bounding boxes
     - find contours
 4. Select largest contours
 
-Files:
+## Files
 - research.ipynb - sandbox to find possible solutions
 - processphoto.py - final script
 
+## Sample result
+
+![Detected](result_997353b.jpg)
